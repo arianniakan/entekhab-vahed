@@ -6,15 +6,29 @@ after signing up, students can login and edit some of their informations they ca
 
 
 all of these where written in python using tkinter 
+
+
 the data is saved using json objects
 
 
 main code is done on app.py
+
+
 admin.py the declaration of the Admin class
+
+
 student.py the declaration of the Student class
+
+
 courses.py the declaration of the Course class
+
+
 all admins data is saved to admins.jon
+
+
 all student data is saved to students.jon
+
+
 all courses data is saved to courses.jon
 
 
@@ -22,7 +36,11 @@ all courses data is saved to courses.jon
 
 
 
+
+
 default admin-> username=admin, password=admin
+
+
 default student-> username=username, password=password
 
 
